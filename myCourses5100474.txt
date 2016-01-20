@@ -1,0 +1,3 @@
+comp scie,  monday,  8:00 - 2,  mr dvis
+course name,  day,  time,  professor
+

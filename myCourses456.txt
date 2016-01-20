@@ -1,0 +1,3 @@
+csc201 - comp scie, MON/WED, 9:00 - 10:00, lynn, e1, davis
+csc205 - comp org, TUE/THU, 13:30 - 14:45, lynn, e1, davis
+phy202 - physics, TUE/THU, 17:45 - 19:00, science building, 2ndfloor, john

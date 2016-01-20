@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1446475482 source:e:\codeblocks\myschedule\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+
+1448277362 source:f:\codeblocks\myschedule\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+	"schedule.h"
+
+1445208958 source:c:\users\d1\desktop\myschedule\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<iomanip>
+
+1448277350 f:\codeblocks\myschedule\schedule.h
+
